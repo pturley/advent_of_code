@@ -44,5 +44,5 @@ end
 two = Two.new
 
 puts "Part 1: #{two.part1()}"
-puts "Part 1: #{two.part2()}"
+puts "Part 2: #{two.part2()}"
 
